@@ -2,12 +2,17 @@ annotated-doc==0.0.4
 annotated-types==0.7.0
 anyio==4.13.0
 certifi==2026.4.22
+cffi==2.0.0
 charset-normalizer==3.4.7
+cryptography==47.0.0
 fastapi==0.136.1
 idna==3.13
+pycparser==3.0
 pydantic==2.13.3
 pydantic_core==2.46.3
+python-pytun==2.4.1
 requests==2.33.1
+scapy==2.7.0
 starlette==1.0.0
 typing-inspection==0.4.2
 typing_extensions==4.15.0
